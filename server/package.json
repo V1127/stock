@@ -1,0 +1,31 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "A server for handling user authentication and data storage.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "nodemon index.js",
+      "seed-db": "node seed.js",
+      "deploy": "your-deployment-script.sh"
+    },
+    "keywords": [
+      "authentication",
+      "backend",
+      "API"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "bcrypt": "^5.0.1",
+      "cors": "^2.8.5",
+      "dotenv": "^10.0.0",
+      "express": "^4.17.2",
+      "joi": "^17.5.0",
+      "joi-password-complexity": "^5.1.0",
+      "jsonwebtoken": "^8.5.1",
+      "mongoose": "^6.1.2",
+      "nodemon": "^2.0.15"
+    }
+  }
+  
