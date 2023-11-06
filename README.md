@@ -7,6 +7,10 @@ Stock MANAGEMENT app for retail stores.
 
 
 
+https://github.com/V1127/stock/assets/111186746/018ceaab-a510-4683-9be4-485a7d539125
+
+
+
 
 # Getting Started with Create React App
 
